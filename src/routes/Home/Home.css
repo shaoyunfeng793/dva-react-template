@@ -1,0 +1,31 @@
+:global(.active){
+  color: #f00;
+  text-decoration: underline;
+}
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 3em;
+  text-align: center;
+}
+
+.welcome {
+  height: 328px;
+  background: url(../../assets/yay.jpg) no-repeat center 0;
+  background-size: 388px 328px;
+}
+
+.list {
+  font-size: 1.2em;
+  margin-top: 1.8em;
+  list-style: none;
+  line-height: 1.5em;
+}
+
+.list code {
+  background: #f7f7f7;
+  color: #fc54c3;
+}
+
+li > a{
+  color: blue;
+}

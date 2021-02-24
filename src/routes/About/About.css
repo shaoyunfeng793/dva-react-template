@@ -1,0 +1,23 @@
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 3em;
+  text-align: center;
+}
+
+p{
+	max-width: 500px;
+	margin: 0 auto;
+	font-size: 1.2em;
+}
+
+span{
+	color: #fc54c3;
+}
+
+p > a{
+	color: blue;
+}
+
+.link{
+	margin-top: 20px;
+}

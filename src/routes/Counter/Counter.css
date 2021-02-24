@@ -1,0 +1,15 @@
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 3em;
+  text-align: center;
+}
+
+button {
+  padding: 3px 15px;
+  margin: 0 10px;
+  color: #333;
+  font-weight: bold;
+  background-color: #eee;
+  border: 0;
+  border-radius: 5px;
+}
